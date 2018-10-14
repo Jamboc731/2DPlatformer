@@ -5,6 +5,8 @@ TagManager:
   serializedVersion: 2
   tags:
   - Saw
+  - SpawnPoint
+  - Hazard
   layers:
   - Default
   - TransparentFX
